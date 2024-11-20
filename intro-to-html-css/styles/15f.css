@@ -1,0 +1,46 @@
+.cloth
+{
+  position: relative;
+  display: inline-block;
+}
+.offer-tag
+{
+  background-color:black;
+  color: white;
+  font-family: Roboto,Arial;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 2px;
+  position: absolute;
+  top: 10px;
+  right: 0px;
+}
+.white-box
+{
+  background-color: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+} 
+.add
+{
+  position: absolute;
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+

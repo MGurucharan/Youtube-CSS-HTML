@@ -1,0 +1,16 @@
+.crossmark
+{
+  background-color: black;
+  color: white;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 5px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 20px;
+  font-family: Roboto,Arial;
+  cursor: pointer;
+}

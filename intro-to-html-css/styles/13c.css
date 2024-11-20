@@ -1,0 +1,59 @@
+div
+{
+  font-family: Roboto,Arial;
+}
+.main-flexbox
+{
+  display: flex;
+  flex-direction: column;
+  border: none;
+  width: 425px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.354);
+}
+.inbox
+{
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+.sub-flexbox
+{
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.current-user-icon
+{
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+.chewy-prom-flexbox
+{
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  font-weight: bold;
+  align-items: center;
+  margin-bottom: 2px;
+}
+.inbox,.message,.time
+{
+  color: rgb(113, 113, 113);
+  font-weight: 400;
+}
+.heading
+{
+  font-weight: bold;
+}
+.time
+{
+  font-size: 15px;
+}
+.message
+{
+  margin-top: 5px;
+}

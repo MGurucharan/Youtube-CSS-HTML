@@ -1,0 +1,62 @@
+.phone-flex
+{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  align-items: end;
+  justify-content: space-between;
+  width: 250px;
+  margin-top: 7px;
+}
+.phone
+{
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(215, 213, 213, 0.98);
+  width: 265px;
+  align-items: center;
+  height: 85px;
+  border-radius: 10px;
+
+}
+.number1
+{
+  background-color: rgb(43, 117, 236);
+  border:none;
+  color:white;
+  border-radius: 100px;
+  width: 30px;
+  cursor: pointer;
+  font-weight: 650;
+}
+.number
+{
+  background-color: rgb(43, 117, 236);
+  border:none;
+  color:white;
+  border-radius: 10px;
+  width: 25px;
+  cursor: pointer;
+  font-weight: 650;
+}
+div
+{
+  font-family: Roboto,Arial;
+}
+.Home
+{
+  font-size: 14px;
+  width: 200px;
+}
+.Notifications
+{
+  font-size: 14px;
+  width: 205px;
+}
+.Messages
+{
+  font-size: 14px;
+  width: 205px;
+}
